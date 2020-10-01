@@ -22,7 +22,7 @@ VADER (Valence Aware Dictionary and sEntiment Reasoner) is a lexicon and rule-ba
 
 #### Other Mechanics to Be Attempted Next, or in Later Projects:
 1. Manually label few hundreds or thousands reviews. Make a model to predict ratings for the rest of the reviews based on text analysis. Then run the cosine similarity recommenders again. <br />  Evaluate performance by field and content knowledge to assess goodness of recommendations.
-2. Exploring how neural networks for unspervised learning for text data can be implemented to group together similar reviews about each perfume, thus grouping together similar users. Can be done to items as well. 
+2. Exploring how neural networks for unspervised learning for text data can be implemented to group together similar reviews about each perfume, thus grouping together similar users. Can be done to items as well.  that is nice to see 
 
 #### PostScript: Getting The Data
 Scraping: I gathered links of most popular designers, then for each designer, I collected links to the perfumes they made, then went to each page and collected the perfume name, reviews, and customer id without their names. <br />
